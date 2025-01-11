@@ -1,5 +1,7 @@
 # Loan_Campaign_Machine_Learning
 Analyze customer data to identify key attributes influencing loan acquisition. Build a predictive model to capture patterns and target high-potential loan buyers. This will help the bank improve marketing efforts, optimize outreach, and increase conversion rates by focusing on customers likely to purchase loans.
+# Skills & Tools Covered
+EDA, Data pre-processing, Model building - Decision Tree, Model Performance Evaluation and Improvement, Business Recommendations
 # Background
 AllLife Bank, a US-based bank, has a growing customer base primarily consisting of depositors (liability customers). However, the number of borrowers (asset customers) remains small. 
 # Business Problem
